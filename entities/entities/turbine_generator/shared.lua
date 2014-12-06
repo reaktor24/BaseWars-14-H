@@ -1,0 +1,20 @@
+ENT.Type = "anim"
+ENT.Base = "base_structure"
+ 
+ENT.PrintName		= "Turbine Generator"
+ENT.Author			= "LegendofRobbo"
+ENT.Contact			= "sod off"
+ENT.Purpose			= "Gives you electricity for your structures."
+ENT.Instructions	= "Keep the wires away from your mouth."
+ENT.Category 		= "Power Plants"
+ENT.PowerSlots		= 10
+ENT.PowerUsage 		= 0
+ENT.Price 			= 3000
+ENT.PowerDist       = 1024
+ENT.Delay 			= 60
+ENT.UseCost 		= 50
+ENT.Player 			= nil
+ENT.Spawnable 		= true
+ENT.MaxHealth 		= 300
+ENT.Fliped 			= false
+ENT.Model 			= "models/props_wasteland/laundry_washer003.mdl"
